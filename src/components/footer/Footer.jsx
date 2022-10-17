@@ -1,7 +1,8 @@
 import React from 'react'
 import './footer.css'
-import { FaFacebookF } from 'react-icons/fa'
-import { AiOutlineInstagram } from 'react-icons/ai'
+
+//import { FaFacebookF } from 'react-icons/fa'
+//import { AiOutlineInstagram } from 'react-icons/ai'
 
 import { BsLinkedin } from 'react-icons/bs'
 import { FiGithub } from 'react-icons/fi'
@@ -44,7 +45,7 @@ const Footer = () => {
       </div>
 
       <div className="footer__copyright">
-        <small>&copy; grundigDev. All rights reserved.</small>
+        <small>&copy; grundigdev. All rights reserved.</small>
       </div>
     </footer>
   )
