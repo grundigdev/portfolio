@@ -7,7 +7,6 @@ import './footer.css'
 import { BsLinkedin } from 'react-icons/bs'
 import { FiGithub } from 'react-icons/fi'
 import { FiTwitter } from 'react-icons/fi'
-import { FiGitlab } from 'react-icons/fi'
 import { BsReddit } from 'react-icons/bs'
 
 const Footer = () => {
@@ -32,9 +31,6 @@ const Footer = () => {
         </a>
         <a href="https://github.com/grundigdev">
           <FiGithub />
-        </a>
-        <a href="https://gitlab.com/grundigdev">
-          <FiGitlab />
         </a>
         <a href="https://twitter.com/grundigdev">
           <FiTwitter />
