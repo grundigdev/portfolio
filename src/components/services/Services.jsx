@@ -11,7 +11,7 @@ const Services = () => {
       <div className="container container__services">
         <article className="service">
           <div className="service__head">
-            <h3>Single-Page-Webanwendung</h3>
+            <h3>Single Page Webanwendung</h3>
           </div>
 
           <ul className="service__list">
@@ -40,33 +40,29 @@ const Services = () => {
 
         <article className="service">
           <div className="service__head">
-            <h3>Web App</h3>
+            <h3>Multi Page Webanwendun </h3>
           </div>
 
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p></p>
+              <p>Mehrere Seiten mit Routing</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p></p>
+              <p>Mit Datenbank</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p></p>
+              <p>Dynamische Inhalte</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p></p>
+              <p>Verwaltung Domain / E-Mail</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p></p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p></p>
+              <p>Webhosting auf Anbieterwahl</p>
             </li>
           </ul>
         </article>
@@ -88,6 +84,10 @@ const Services = () => {
             <li>
               <BiCheck className="service__list-icon" />
               <p>Frontend: React</p>
+            </li>
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>API</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
